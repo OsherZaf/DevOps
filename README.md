@@ -1,1 +1,6 @@
-## Please run `pip install -r requirements.txt` before running the file.
+## ⚙️ **Setup Instructions**
+
+To ensure everything runs smoothly, please install the required dependencies by running the following command:
+
+```bash
+pip install -r requirements.txt
